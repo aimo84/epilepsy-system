@@ -1,7 +1,7 @@
 backports.ssl-match-hostname==3.4.0.2
 Cython==0.22
 decorator==3.4.0
-ipython==3.0.0
+ipython==8.10.0
 Jinja2==2.7.3
 jsonschema==2.4.0
 MarkupSafe==0.23
